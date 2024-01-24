@@ -1,0 +1,351 @@
+.main01{
+    background-color: aqua;
+    width: 100%;
+    height: 80px;
+}
+
+.main-inner{
+    background-color: aqua;
+    width: 100%;
+    height: 750px;
+}
+
+.box01{
+    background-color: aliceblue;
+    width: 400px;
+    height: 400px;
+    margin-left: 350px;
+}
+
+.box02 {
+    background-color: aquamarine;
+    width: 400px;
+    height: 400px;
+    margin-left: 750px;
+    margin-top: -400px;
+}
+
+.box02 img {
+    height: 400px;
+    width: 400px;
+}
+
+.text-input{
+    margin-top: 100px;
+}
+
+.text-input h1{
+    font-size: 80px;
+    margin-left: 370px;
+    color: rgb(106, 106, 212);
+}
+
+.text-input01{
+    width: 600px;
+    margin-left: 475px;
+}
+
+.button-box02{
+    margin-left: 700px;
+}
+
+.text-input02 h1{
+    font-size: 70px;
+    margin-left: 200px;
+}
+
+.prg01 {
+    margin-left: 200px;
+}
+
+.box-A {
+    width: 300px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 220px;
+}
+
+.box-A img{
+    width: 100px;
+    height: 100px;
+}
+
+.box-A h1{
+    font-size: 150px;
+    color: aquamarine;
+    margin-top: 10px;
+}
+
+.box-A h2{
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+.box-A p{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.box-B {
+    width: 300px;
+    height: 400px;
+    margin-top: -400px;
+    margin-left: 610px;
+}
+
+.box-B img{
+    width: 100px;
+    height: 100px;
+}
+
+.box-B h1{
+    font-size: 150px;
+    color: aquamarine;
+    margin-top: 10px;
+}
+
+.box-B h2{
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+.box-B p{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.box-C {
+    width: 300px;
+    height: 400px;
+    margin-top: -400px;
+    margin-left: 1000px;
+}
+
+.box-C img{
+    width: 100px;
+    height: 100px;
+}
+
+.box-C h1{
+    font-size: 150px;
+    color: aquamarine;
+    margin-top: 10px;
+}
+
+.box-C h2{
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+.box-C p{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.box-D {
+    width: 300px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 220px;
+}
+
+.box-D img{
+    width: 100px;
+    height: 100px;
+}
+
+.box-D h1{
+    font-size: 150px;
+    color: aquamarine;
+    margin-top: 10px;
+}
+
+.box-D h2{
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+.box-D p{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.box-E {
+    width: 300px;
+    height: 400px;
+    margin-top: -400px;
+    margin-left: 610px;
+}
+
+.box-E img{
+    width: 100px;
+    height: 100px;
+}
+
+.box-E h1{
+    font-size: 150px;
+    color: aquamarine;
+    margin-top: 10px;
+}
+
+.box-E h2{
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+.box-E p{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.box-F {
+    width: 300px;
+    height: 400px;
+    margin-top: -400px;
+    margin-left: 1000px;
+}
+
+.box-F img{
+    width: 100px;
+    height: 100px;
+}
+
+.box-F h1{
+    font-size: 150px;
+    color: aquamarine;
+    margin-top: 10px;
+}
+
+.box-F h2{
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+.box-F p{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.B-color{
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+    margin-top: 100px;
+}
+
+.box-outer{
+    background-color: aqua;
+    width: 100%;
+    height: 700px;
+    margin-top: -30px;
+}
+
+.box-outer h4{
+    margin-left: 750px;
+    color: rgb(80, 59, 100);
+}
+
+.box-outer h1{
+    margin-left: 600px;
+    color: rgb(80, 59, 100);
+}
+
+.img-box01{
+    margin-left: 100px;
+    margin-top: 100px;
+    background-color: antiquewhite;
+    width: 400px;
+    height: 400px;
+    border-radius: 100px;
+}
+
+.img-box01 img{
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.img-box01 h2{
+    margin-left: 110px;
+}
+
+.img-box01 button{
+    margin-left: 150px;
+}
+
+.img-box02{
+    margin-left: 550px;
+    margin-top: -400px;
+    background-color: antiquewhite;
+    width: 400px;
+    height: 400px;
+    border-radius: 100px;
+}
+
+.img-box02 img{
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.img-box02 h2{
+    margin-left: 110px;
+}
+
+.img-box02 button{
+    margin-left: 150px;
+}
+
+.img-box03{
+    margin-left: 1000px;
+    margin-top: -400px;
+    background-color: antiquewhite;
+    width: 400px;
+    height: 400px;
+    border-radius: 100px;
+}
+
+.img-box03 img{
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.img-box03 h2{
+    margin-left: 110px;
+}
+
+.img-box03 button{
+    margin-left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
